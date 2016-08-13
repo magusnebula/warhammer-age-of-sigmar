@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="cbf7-77df-27fa-6465" revision="7" gameSystemId="e51d-b1a3-75fc-dc33" gameSystemRevision="6" battleScribeVersion="1.15" name="Grand Alliance: Chaos" books="Grand Alliance: Chaos" authorName="https://gitter.im/BSData/warhammer-age-of-sigmar" authorContact="@BSData" authorUrl="https://github.com/BSData/warhammer-age-of-sigmar" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="cbf7-77df-27fa-6465" revision="8" gameSystemId="e51d-b1a3-75fc-dc33" gameSystemRevision="6" battleScribeVersion="1.15" name="Grand Alliance: Chaos" books="Grand Alliance: Chaos" authorName="https://gitter.im/BSData/warhammer-age-of-sigmar" authorContact="@BSData" authorUrl="https://github.com/BSData/warhammer-age-of-sigmar" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entries/>
   <rules/>
   <links>
@@ -83,7 +83,6 @@
                   <conditions>
                     <condition parentId="roster" childId="4d29-7688-92be-e57c" field="selections" type="equal to" value="0.0"/>
                     <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-                    <condition parentId="roster" childId="6a80-516a-0599-8827" field="selections" type="equal to" value="0.0"/>
                   </conditions>
                   <conditionGroups/>
                 </conditionGroup>
@@ -123,7 +122,6 @@
                   <conditions>
                     <condition parentId="roster" childId="3d11-8b4b-94f6-9828" field="selections" type="equal to" value="0.0"/>
                     <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-                    <condition parentId="roster" childId="6a80-516a-0599-8827" field="selections" type="equal to" value="0.0"/>
                   </conditions>
                   <conditionGroups/>
                 </conditionGroup>
@@ -175,7 +173,6 @@
                   <conditions>
                     <condition parentId="roster" childId="7f74-4fb5-d13e-306e" field="selections" type="equal to" value="0.0"/>
                     <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-                    <condition parentId="roster" childId="6a80-516a-0599-8827" field="selections" type="equal to" value="0.0"/>
                   </conditions>
                   <conditionGroups/>
                 </conditionGroup>
@@ -209,7 +206,6 @@
                   <conditions>
                     <condition parentId="roster" childId="7f74-4fb5-d13e-306e" field="selections" type="equal to" value="0.0"/>
                     <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-                    <condition parentId="roster" childId="6a80-516a-0599-8827" field="selections" type="equal to" value="0.0"/>
                   </conditions>
                   <conditionGroups/>
                 </conditionGroup>
@@ -288,7 +284,6 @@
                   <conditions>
                     <condition parentId="roster" childId="8b27-23dc-60fa-975f" field="selections" type="equal to" value="0.0"/>
                     <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-                    <condition parentId="roster" childId="6a80-516a-0599-8827" field="selections" type="equal to" value="0.0"/>
                   </conditions>
                   <conditionGroups/>
                 </conditionGroup>
@@ -322,7 +317,6 @@
                   <conditions>
                     <condition parentId="roster" childId="8b27-23dc-60fa-975f" field="selections" type="equal to" value="0.0"/>
                     <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-                    <condition parentId="roster" childId="6a80-516a-0599-8827" field="selections" type="equal to" value="0.0"/>
                   </conditions>
                   <conditionGroups/>
                 </conditionGroup>
@@ -1130,6 +1124,99 @@
         </modifier>
       </modifiers>
     </link>
+    <link id="9ec9-36f8-17d6-eb89" targetId="674b-bcbc-3d3e-20d6" linkType="entry" categoryId="be17-6bbd-b857-3f43">
+      <modifiers/>
+    </link>
+    <link id="b4c9-1590-f84e-6937" targetId="49cc-39c2-6a67-d592" linkType="entry" categoryId="be17-6bbd-b857-3f43">
+      <modifiers/>
+    </link>
+    <link id="6079-8245-be7c-f941" targetId="659b-a076-8499-9128" linkType="entry" categoryId="a790-d5f5-d0c2-2eb6">
+      <modifiers/>
+    </link>
+    <link id="7253-8ccb-ebec-e4f4" targetId="6908-f186-f4ae-2801" linkType="entry" categoryId="6c6b-e787-f9b8-a510">
+      <modifiers/>
+    </link>
+    <link id="02d2-e1f9-2b9b-7136" targetId="747e-d785-0a8d-720f" linkType="entry" categoryId="fa0c-9044-2568-fa02">
+      <modifiers/>
+    </link>
+    <link id="57a6-76fc-fd6f-233e" targetId="1ff3-1806-6e9d-1487" linkType="entry" categoryId="065e-fda7-fd27-1f40">
+      <modifiers/>
+    </link>
+    <link id="179c-994e-2e01-887c" targetId="3ba8-0f8a-b0af-aae1" linkType="entry" categoryId="fa0c-9044-2568-fa02">
+      <modifiers/>
+    </link>
+    <link id="0496-e8d0-5529-d288" targetId="d50a-3fe7-82de-6b47" linkType="entry" categoryId="6c6b-e787-f9b8-a510">
+      <modifiers/>
+    </link>
+    <link id="c53f-349c-9454-7af8" targetId="097f-0999-cb7e-27af" linkType="entry" categoryId="065e-fda7-fd27-1f40">
+      <modifiers/>
+    </link>
+    <link id="8e1f-86b3-2eaa-f694" targetId="5e64-dbeb-39c1-e934" linkType="entry" categoryId="065e-fda7-fd27-1f40">
+      <modifiers>
+        <modifier type="hide" field="minSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+          <conditions/>
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition parentId="roster" childId="5f71-92c5-b159-fd5f" field="selections" type="equal to" value="1.0"/>
+              </conditions>
+              <conditionGroups>
+                <conditionGroup type="and">
+                  <conditions>
+                    <condition parentId="roster" childId="5f71-92c5-b159-fd5f" field="selections" type="equal to" value="0.0"/>
+                    <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
+                  </conditions>
+                  <conditionGroups/>
+                </conditionGroup>
+              </conditionGroups>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+      </modifiers>
+    </link>
+    <link id="f62d-00ce-6e08-d0c3" targetId="5e64-dbeb-39c1-e934" linkType="entry" categoryId="e9f2-765a-b7b8-ce8e">
+      <modifiers>
+        <modifier type="hide" field="minSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+          <conditions>
+            <condition parentId="roster" childId="5f71-92c5-b159-fd5f" field="selections" type="equal to" value="0.0"/>
+          </conditions>
+          <conditionGroups/>
+        </modifier>
+      </modifiers>
+    </link>
+    <link id="2da0-8bda-c1a9-6666" targetId="4fe5-c2f0-bc2f-8092" linkType="entry" categoryId="065e-fda7-fd27-1f40">
+      <modifiers>
+        <modifier type="hide" field="minSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+          <conditions/>
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition parentId="roster" childId="5f71-92c5-b159-fd5f" field="selections" type="equal to" value="1.0"/>
+              </conditions>
+              <conditionGroups>
+                <conditionGroup type="and">
+                  <conditions>
+                    <condition parentId="roster" childId="5f71-92c5-b159-fd5f" field="selections" type="equal to" value="0.0"/>
+                    <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
+                  </conditions>
+                  <conditionGroups/>
+                </conditionGroup>
+              </conditionGroups>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+      </modifiers>
+    </link>
+    <link id="9168-ed96-9bca-b7f5" targetId="4fe5-c2f0-bc2f-8092" linkType="entry" categoryId="e9f2-765a-b7b8-ce8e">
+      <modifiers>
+        <modifier type="hide" field="minSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+          <conditions>
+            <condition parentId="roster" childId="5f71-92c5-b159-fd5f" field="selections" type="equal to" value="0.0"/>
+          </conditions>
+          <conditionGroups/>
+        </modifier>
+      </modifiers>
+    </link>
   </links>
   <sharedEntries>
     <entry id="def3-fb3a-34ff-441f" name="Alliegance" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
@@ -1145,6 +1232,18 @@
               <profiles/>
               <links>
                 <link id="f202-a24a-1210-f496" targetId="9dda-5169-5ba8-1bbf" linkType="entry">
+                  <modifiers/>
+                </link>
+              </links>
+            </entry>
+            <entry id="bf31-5bdd-3ed2-322d" name="Chaos Gargants" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles/>
+              <links>
+                <link id="3454-054f-26cb-66c9" targetId="9dda-5169-5ba8-1bbf" linkType="entry">
                   <modifiers/>
                 </link>
               </links>
@@ -1209,7 +1308,7 @@
                 </link>
               </links>
             </entry>
-            <entry id="f2f3-6a3d-0168-d401" name="Khrone Daemons" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="f2f3-6a3d-0168-d401" name="Daemons of Khorne" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1221,7 +1320,7 @@
                 </link>
               </links>
             </entry>
-            <entry id="e50f-9547-a13f-e89a" name="Nurgle Daemons" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="e50f-9547-a13f-e89a" name="Daemons of Nurgle" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1233,7 +1332,7 @@
                 </link>
               </links>
             </entry>
-            <entry id="83f2-5f7a-0ef4-9205" name="Tzeentch Daemons" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="83f2-5f7a-0ef4-9205" name="Daemons of Tzeentch" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1245,7 +1344,7 @@
                 </link>
               </links>
             </entry>
-            <entry id="872d-75ec-ee21-1eb3" name="Daemons" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+            <entry id="872d-75ec-ee21-1eb3" name="Daemons of Chaos" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
               <entries/>
               <entryGroups/>
               <modifiers/>
@@ -1389,6 +1488,30 @@
                 </link>
               </links>
             </entry>
+            <entry id="5f71-92c5-b159-fd5f" name="Tamurkhan’s Horde" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" book="">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles/>
+              <links>
+                <link id="eb73-99de-9ec3-8add" targetId="9dda-5169-5ba8-1bbf" linkType="entry">
+                  <modifiers/>
+                </link>
+              </links>
+            </entry>
+            <entry id="35df-c0c0-5bab-f4ef" name="The Legion of Azgorh" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" book="">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles/>
+              <links>
+                <link id="2f71-42d6-28c4-4fbc" targetId="9dda-5169-5ba8-1bbf" linkType="entry">
+                  <modifiers/>
+                </link>
+              </links>
+            </entry>
           </entries>
           <entryGroups/>
           <modifiers/>
@@ -1411,7 +1534,27 @@
               <conditions>
                 <condition parentId="roster" childId="8b27-23dc-60fa-975f" field="selections" type="equal to" value="0.0"/>
                 <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-                <condition parentId="roster" childId="6a80-516a-0599-8827" field="selections" type="equal to" value="0.0"/>
+              </conditions>
+              <conditionGroups/>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+      </modifiers>
+      <rules/>
+      <profiles/>
+      <links/>
+    </entry>
+    <entry id="d90c-3eba-77f4-ab9e" name="Arch-warlock" points="140.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers>
+        <modifier type="hide" field="minSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+          <conditions/>
+          <conditionGroups>
+            <conditionGroup type="and">
+              <conditions>
+                <condition parentId="roster" childId="8b27-23dc-60fa-975f" field="selections" type="equal to" value="0.0"/>
+                <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
               </conditions>
               <conditionGroups/>
             </conditionGroup>
@@ -1706,7 +1849,6 @@
               <conditions>
                 <condition parentId="roster" childId="7f74-4fb5-d13e-306e" field="selections" type="equal to" value="0.0"/>
                 <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-                <condition parentId="roster" childId="6a80-516a-0599-8827" field="selections" type="equal to" value="0.0"/>
               </conditions>
               <conditionGroups/>
             </conditionGroup>
@@ -1770,7 +1912,6 @@
               <conditions>
                 <condition parentId="roster" childId="7f74-4fb5-d13e-306e" field="selections" type="equal to" value="0.0"/>
                 <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-                <condition parentId="roster" childId="6a80-516a-0599-8827" field="selections" type="equal to" value="0.0"/>
               </conditions>
               <conditionGroups/>
             </conditionGroup>
@@ -1876,7 +2017,6 @@
               <conditions>
                 <condition parentId="roster" childId="7f74-4fb5-d13e-306e" field="selections" type="equal to" value="0.0"/>
                 <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-                <condition parentId="roster" childId="6a80-516a-0599-8827" field="selections" type="equal to" value="0.0"/>
               </conditions>
               <conditionGroups/>
             </conditionGroup>
@@ -1992,6 +2132,27 @@
       <profiles/>
       <links/>
     </entry>
+    <entry id="674b-bcbc-3d3e-20d6" name="Battalion: Sons of the Maggot Lord" points="120.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers>
+        <modifier type="hide" field="minSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+          <conditions/>
+          <conditionGroups>
+            <conditionGroup type="and">
+              <conditions>
+                <condition parentId="roster" childId="5f71-92c5-b159-fd5f" field="selections" type="equal to" value="0.0"/>
+                <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
+              </conditions>
+              <conditionGroups/>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+      </modifiers>
+      <rules/>
+      <profiles/>
+      <links/>
+    </entry>
     <entry id="0e32-f720-32cf-5d8e" name="Battalion: Tallyband of Nurgle" points="100.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups/>
@@ -2034,6 +2195,27 @@
       <profiles/>
       <links/>
     </entry>
+    <entry id="49cc-39c2-6a67-d592" name="Battalion: The Leaping Pox" points="80.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers>
+        <modifier type="hide" field="minSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+          <conditions/>
+          <conditionGroups>
+            <conditionGroup type="and">
+              <conditions>
+                <condition parentId="roster" childId="5f71-92c5-b159-fd5f" field="selections" type="equal to" value="0.0"/>
+                <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
+              </conditions>
+              <conditionGroups/>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+      </modifiers>
+      <rules/>
+      <profiles/>
+      <links/>
+    </entry>
     <entry id="41e8-3b67-666e-cec1" name="Battalion: Virulent Procession" points="80.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups/>
@@ -2045,7 +2227,6 @@
               <conditions>
                 <condition parentId="roster" childId="7f74-4fb5-d13e-306e" field="selections" type="equal to" value="0.0"/>
                 <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-                <condition parentId="roster" childId="6a80-516a-0599-8827" field="selections" type="equal to" value="0.0"/>
               </conditions>
               <conditionGroups/>
             </conditionGroup>
@@ -2168,6 +2349,36 @@
             <conditionGroup type="and">
               <conditions>
                 <condition parentId="roster" childId="d550-242d-9c39-d5d4" field="selections" type="equal to" value="0.0"/>
+                <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
+              </conditions>
+              <conditionGroups/>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+      </modifiers>
+      <rules/>
+      <profiles/>
+      <links/>
+    </entry>
+    <entry id="dd02-1673-25b9-7380" name="Bile Trolls" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries>
+        <entry id="4a40-59cd-dbeb-977b" name="3 Bile Trolls" points="200.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="4" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links/>
+        </entry>
+      </entries>
+      <entryGroups/>
+      <modifiers>
+        <modifier type="hide" field="minSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+          <conditions/>
+          <conditionGroups>
+            <conditionGroup type="and">
+              <conditions>
+                <condition parentId="roster" childId="5f71-92c5-b159-fd5f" field="selections" type="equal to" value="0.0"/>
                 <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
               </conditions>
               <conditionGroups/>
@@ -2589,10 +2800,16 @@
       <entryGroups/>
       <modifiers>
         <modifier type="hide" field="minSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
-          <conditions>
-            <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-          </conditions>
-          <conditionGroups/>
+          <conditions/>
+          <conditionGroups>
+            <conditionGroup type="and">
+              <conditions>
+                <condition parentId="roster" childId="bf31-5bdd-3ed2-322d" field="selections" type="equal to" value="0.0"/>
+                <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
+              </conditions>
+              <conditionGroups/>
+            </conditionGroup>
+          </conditionGroups>
         </modifier>
       </modifiers>
       <rules/>
@@ -2828,6 +3045,27 @@
       <profiles/>
       <links/>
     </entry>
+    <entry id="3ba8-0f8a-b0af-aae1" name="Chaos War Mammoth" points="320.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers>
+        <modifier type="hide" field="minSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+          <conditions/>
+          <conditionGroups>
+            <conditionGroup type="and">
+              <conditions>
+                <condition parentId="roster" childId="5f71-92c5-b159-fd5f" field="selections" type="equal to" value="0.0"/>
+                <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
+              </conditions>
+              <conditionGroups/>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+      </modifiers>
+      <rules/>
+      <profiles/>
+      <links/>
+    </entry>
     <entry id="cfc0-8871-75f4-56ca" name="Chaos Warhounds" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries>
         <entry id="9ca4-81e1-b237-8107" name="10 Chaos Warhounds" points="80.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
@@ -2938,7 +3176,6 @@
               <conditions>
                 <condition parentId="roster" childId="f5bc-4064-652f-f049" field="selections" type="equal to" value="0.0"/>
                 <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-                <condition parentId="roster" childId="6a80-516a-0599-8827" field="selections" type="equal to" value="0.0"/>
               </conditions>
               <conditionGroups/>
             </conditionGroup>
@@ -2995,6 +3232,53 @@
             <conditionGroup type="and">
               <conditions>
                 <condition parentId="roster" childId="12e2-8381-f656-a0e0" field="selections" type="equal to" value="0.0"/>
+                <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
+              </conditions>
+              <conditionGroups/>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+      </modifiers>
+      <rules/>
+      <profiles/>
+      <links/>
+    </entry>
+    <entry id="5e64-dbeb-39c1-e934" name="Daemon Plague Toads" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries>
+        <entry id="12a4-090a-92a9-6d06" name="3 Daemon Plague Toads" points="120.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="4" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links/>
+        </entry>
+      </entries>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles/>
+      <links/>
+    </entry>
+    <entry id="1ff3-1806-6e9d-1487" name="Daemon Pox Riders" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries>
+        <entry id="8b25-b833-1081-2c71" name="3 Daemon Pox Riders" points="200.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="4" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links/>
+        </entry>
+      </entries>
+      <entryGroups/>
+      <modifiers>
+        <modifier type="hide" field="minSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+          <conditions/>
+          <conditionGroups>
+            <conditionGroup type="and">
+              <conditions>
+                <condition parentId="roster" childId="5f71-92c5-b159-fd5f" field="selections" type="equal to" value="0.0"/>
                 <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
               </conditions>
               <conditionGroups/>
@@ -3116,7 +3400,6 @@
               <conditions>
                 <condition parentId="roster" childId="8b27-23dc-60fa-975f" field="selections" type="equal to" value="0.0"/>
                 <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-                <condition parentId="roster" childId="6a80-516a-0599-8827" field="selections" type="equal to" value="0.0"/>
               </conditions>
               <conditionGroups/>
             </conditionGroup>
@@ -3159,7 +3442,6 @@
               <conditions>
                 <condition parentId="roster" childId="8b27-23dc-60fa-975f" field="selections" type="equal to" value="0.0"/>
                 <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-                <condition parentId="roster" childId="6a80-516a-0599-8827" field="selections" type="equal to" value="0.0"/>
               </conditions>
               <conditionGroups/>
             </conditionGroup>
@@ -3539,6 +3821,27 @@
       <profiles/>
       <links/>
     </entry>
+    <entry id="747e-d785-0a8d-720f" name="Gigantic Chaos Spawn" points="180.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers>
+        <modifier type="hide" field="minSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+          <conditions/>
+          <conditionGroups>
+            <conditionGroup type="and">
+              <conditions>
+                <condition parentId="roster" childId="5f71-92c5-b159-fd5f" field="selections" type="equal to" value="0.0"/>
+                <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
+              </conditions>
+              <conditionGroups/>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+      </modifiers>
+      <rules/>
+      <profiles/>
+      <links/>
+    </entry>
     <entry id="6370-be84-3683-65e2" name="Gors" points="0.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries>
         <entry id="6fbe-253c-3eca-8c7b" name="10 Gors" points="80.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="3" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
@@ -3673,7 +3976,6 @@
               <conditions>
                 <condition parentId="roster" childId="4d29-7688-92be-e57c" field="selections" type="equal to" value="0.0"/>
                 <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-                <condition parentId="roster" childId="6a80-516a-0599-8827" field="selections" type="equal to" value="0.0"/>
               </conditions>
               <conditionGroups/>
             </conditionGroup>
@@ -3740,7 +4042,6 @@
               <conditions>
                 <condition parentId="roster" childId="3d11-8b4b-94f6-9828" field="selections" type="equal to" value="0.0"/>
                 <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-                <condition parentId="roster" childId="6a80-516a-0599-8827" field="selections" type="equal to" value="0.0"/>
               </conditions>
               <conditionGroups/>
             </conditionGroup>
@@ -4033,6 +4334,27 @@
       <profiles/>
       <links/>
     </entry>
+    <entry id="6908-f186-f4ae-2801" name="Kayzk" points="140.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers>
+        <modifier type="hide" field="minSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+          <conditions/>
+          <conditionGroups>
+            <conditionGroup type="and">
+              <conditions>
+                <condition parentId="roster" childId="5f71-92c5-b159-fd5f" field="selections" type="equal to" value="0.0"/>
+                <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
+              </conditions>
+              <conditionGroups/>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+      </modifiers>
+      <rules/>
+      <profiles/>
+      <links/>
+    </entry>
     <entry id="a3af-31d0-1cd3-e856" name="Keeper of Secrets" points="280.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups/>
@@ -4310,6 +4632,27 @@
       <profiles/>
       <links/>
     </entry>
+    <entry id="097f-0999-cb7e-27af" name="Nightmaw" points="80.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers>
+        <modifier type="hide" field="minSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+          <conditions/>
+          <conditionGroups>
+            <conditionGroup type="and">
+              <conditions>
+                <condition parentId="roster" childId="5f71-92c5-b159-fd5f" field="selections" type="equal to" value="0.0"/>
+                <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
+              </conditions>
+              <conditionGroups/>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+      </modifiers>
+      <rules/>
+      <profiles/>
+      <links/>
+    </entry>
     <entry id="7415-df63-8667-33d9" name="Nurglings" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries>
         <entry id="6358-2d86-c1ab-cfe7" name="3 Nurglings" points="80.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="4" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
@@ -4372,7 +4715,6 @@
               <conditions>
                 <condition parentId="roster" childId="3d11-8b4b-94f6-9828" field="selections" type="equal to" value="0.0"/>
                 <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-                <condition parentId="roster" childId="6a80-516a-0599-8827" field="selections" type="equal to" value="0.0"/>
               </conditions>
               <conditionGroups/>
             </conditionGroup>
@@ -4501,7 +4843,6 @@
               <conditions>
                 <condition parentId="roster" childId="7f74-4fb5-d13e-306e" field="selections" type="equal to" value="0.0"/>
                 <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-                <condition parentId="roster" childId="6a80-516a-0599-8827" field="selections" type="equal to" value="0.0"/>
               </conditions>
               <conditionGroups/>
             </conditionGroup>
@@ -4529,6 +4870,23 @@
       <profiles/>
       <links/>
     </entry>
+    <entry id="4fe5-c2f0-bc2f-8092" name="Plague Ogres" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries>
+        <entry id="2904-5132-3dac-e222" name="3 Plague Ogres" points="160.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="4" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links/>
+        </entry>
+      </entries>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles/>
+      <links/>
+    </entry>
     <entry id="f465-d984-9ddc-9898" name="Plague Priest" points="80.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries/>
       <entryGroups/>
@@ -4540,7 +4898,6 @@
               <conditions>
                 <condition parentId="roster" childId="7f74-4fb5-d13e-306e" field="selections" type="equal to" value="0.0"/>
                 <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-                <condition parentId="roster" childId="6a80-516a-0599-8827" field="selections" type="equal to" value="0.0"/>
               </conditions>
               <conditionGroups/>
             </conditionGroup>
@@ -4562,7 +4919,6 @@
               <conditions>
                 <condition parentId="roster" childId="7f74-4fb5-d13e-306e" field="selections" type="equal to" value="0.0"/>
                 <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-                <condition parentId="roster" childId="6a80-516a-0599-8827" field="selections" type="equal to" value="0.0"/>
               </conditions>
               <conditionGroups/>
             </conditionGroup>
@@ -4584,7 +4940,6 @@
               <conditions>
                 <condition parentId="roster" childId="8b27-23dc-60fa-975f" field="selections" type="equal to" value="0.0"/>
                 <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-                <condition parentId="roster" childId="6a80-516a-0599-8827" field="selections" type="equal to" value="0.0"/>
               </conditions>
               <conditionGroups/>
             </conditionGroup>
@@ -4632,7 +4987,6 @@
               <conditions>
                 <condition parentId="roster" childId="3d11-8b4b-94f6-9828" field="selections" type="equal to" value="0.0"/>
                 <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-                <condition parentId="roster" childId="6a80-516a-0599-8827" field="selections" type="equal to" value="0.0"/>
               </conditions>
               <conditionGroups/>
             </conditionGroup>
@@ -4663,7 +5017,6 @@
               <conditions>
                 <condition parentId="roster" childId="3d11-8b4b-94f6-9828" field="selections" type="equal to" value="0.0"/>
                 <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-                <condition parentId="roster" childId="6a80-516a-0599-8827" field="selections" type="equal to" value="0.0"/>
               </conditions>
               <conditionGroups/>
             </conditionGroup>
@@ -4685,7 +5038,6 @@
               <conditions>
                 <condition parentId="roster" childId="8b27-23dc-60fa-975f" field="selections" type="equal to" value="0.0"/>
                 <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-                <condition parentId="roster" childId="6a80-516a-0599-8827" field="selections" type="equal to" value="0.0"/>
               </conditions>
               <conditionGroups/>
             </conditionGroup>
@@ -4730,6 +5082,27 @@
             <conditionGroup type="and">
               <conditions>
                 <condition parentId="roster" childId="3c99-0970-64e3-ca87" field="selections" type="equal to" value="0.0"/>
+                <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
+              </conditions>
+              <conditionGroups/>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+      </modifiers>
+      <rules/>
+      <profiles/>
+      <links/>
+    </entry>
+    <entry id="d50a-3fe7-82de-6b47" name="Sayl the Faithless" points="160.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers>
+        <modifier type="hide" field="minSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+          <conditions/>
+          <conditionGroups>
+            <conditionGroup type="and">
+              <conditions>
+                <condition parentId="roster" childId="5f71-92c5-b159-fd5f" field="selections" type="equal to" value="0.0"/>
                 <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
               </conditions>
               <conditionGroups/>
@@ -4926,7 +5299,6 @@
               <conditions>
                 <condition parentId="roster" childId="4d29-7688-92be-e57c" field="selections" type="equal to" value="0.0"/>
                 <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-                <condition parentId="roster" childId="6a80-516a-0599-8827" field="selections" type="equal to" value="0.0"/>
               </conditions>
               <conditionGroups/>
             </conditionGroup>
@@ -4948,7 +5320,6 @@
               <conditions>
                 <condition parentId="roster" childId="f5bc-4064-652f-f049" field="selections" type="equal to" value="0.0"/>
                 <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-                <condition parentId="roster" childId="6a80-516a-0599-8827" field="selections" type="equal to" value="0.0"/>
               </conditions>
               <conditionGroups/>
             </conditionGroup>
@@ -5223,7 +5594,27 @@
               <conditions>
                 <condition parentId="roster" childId="f5bc-4064-652f-f049" field="selections" type="equal to" value="0.0"/>
                 <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-                <condition parentId="roster" childId="6a80-516a-0599-8827" field="selections" type="equal to" value="0.0"/>
+              </conditions>
+              <conditionGroups/>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+      </modifiers>
+      <rules/>
+      <profiles/>
+      <links/>
+    </entry>
+    <entry id="659b-a076-8499-9128" name="Tamurkhan" points="500.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers>
+        <modifier type="hide" field="minSelections" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+          <conditions/>
+          <conditionGroups>
+            <conditionGroup type="and">
+              <conditions>
+                <condition parentId="roster" childId="5f71-92c5-b159-fd5f" field="selections" type="equal to" value="0.0"/>
+                <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
               </conditions>
               <conditionGroups/>
             </conditionGroup>
@@ -5507,7 +5898,6 @@
               <conditions>
                 <condition parentId="roster" childId="7f74-4fb5-d13e-306e" field="selections" type="equal to" value="0.0"/>
                 <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-                <condition parentId="roster" childId="6a80-516a-0599-8827" field="selections" type="equal to" value="0.0"/>
               </conditions>
               <conditionGroups/>
             </conditionGroup>
@@ -5529,7 +5919,6 @@
               <conditions>
                 <condition parentId="roster" childId="4d29-7688-92be-e57c" field="selections" type="equal to" value="0.0"/>
                 <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-                <condition parentId="roster" childId="6a80-516a-0599-8827" field="selections" type="equal to" value="0.0"/>
               </conditions>
               <conditionGroups/>
             </conditionGroup>
@@ -5551,7 +5940,6 @@
               <conditions>
                 <condition parentId="roster" childId="f5bc-4064-652f-f049" field="selections" type="equal to" value="0.0"/>
                 <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-                <condition parentId="roster" childId="6a80-516a-0599-8827" field="selections" type="equal to" value="0.0"/>
               </conditions>
               <conditionGroups/>
             </conditionGroup>
@@ -5573,7 +5961,6 @@
               <conditions>
                 <condition parentId="roster" childId="7235-9a79-05ae-ec67" field="selections" type="equal to" value="0.0"/>
                 <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-                <condition parentId="roster" childId="6a80-516a-0599-8827" field="selections" type="equal to" value="0.0"/>
               </conditions>
               <conditionGroups/>
             </conditionGroup>
@@ -5595,7 +5982,6 @@
               <conditions>
                 <condition parentId="roster" childId="8b27-23dc-60fa-975f" field="selections" type="equal to" value="0.0"/>
                 <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-                <condition parentId="roster" childId="6a80-516a-0599-8827" field="selections" type="equal to" value="0.0"/>
               </conditions>
               <conditionGroups/>
             </conditionGroup>
@@ -5606,9 +5992,9 @@
       <profiles/>
       <links/>
     </entry>
-    <entry id="e991-da8e-546a-674c" name="Warplock Jezzails" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+    <entry id="e991-da8e-546a-674c" name="Warlock Jezzails" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
       <entries>
-        <entry id="fcc4-1671-9da7-5c09" name="3 Warplock Jezzails" points="140.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="4" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+        <entry id="fcc4-1671-9da7-5c09" name="3 Warlock Jezzails" points="140.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="4" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
           <entries/>
           <entryGroups/>
           <modifiers/>
@@ -5626,7 +6012,6 @@
               <conditions>
                 <condition parentId="roster" childId="8b27-23dc-60fa-975f" field="selections" type="equal to" value="0.0"/>
                 <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-                <condition parentId="roster" childId="6a80-516a-0599-8827" field="selections" type="equal to" value="0.0"/>
               </conditions>
               <conditionGroups/>
             </conditionGroup>
@@ -5648,7 +6033,6 @@
               <conditions>
                 <condition parentId="roster" childId="8b27-23dc-60fa-975f" field="selections" type="equal to" value="0.0"/>
                 <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-                <condition parentId="roster" childId="6a80-516a-0599-8827" field="selections" type="equal to" value="0.0"/>
               </conditions>
               <conditionGroups/>
             </conditionGroup>
@@ -5670,7 +6054,6 @@
               <conditions>
                 <condition parentId="roster" childId="8b27-23dc-60fa-975f" field="selections" type="equal to" value="0.0"/>
                 <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-                <condition parentId="roster" childId="6a80-516a-0599-8827" field="selections" type="equal to" value="0.0"/>
               </conditions>
               <conditionGroups/>
             </conditionGroup>
@@ -5692,7 +6075,6 @@
               <conditions>
                 <condition parentId="roster" childId="8b27-23dc-60fa-975f" field="selections" type="equal to" value="0.0"/>
                 <condition parentId="roster" childId="4c0f-8d37-9abe-330f" field="selections" type="equal to" value="0.0"/>
-                <condition parentId="roster" childId="6a80-516a-0599-8827" field="selections" type="equal to" value="0.0"/>
               </conditions>
               <conditionGroups/>
             </conditionGroup>
